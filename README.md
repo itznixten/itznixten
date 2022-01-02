@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @itznixten
-- 👀 I’m interested in Devloping bots in discord and also a python mastered
+- 👀 I’m interested in Devloping bots in discord and also a python developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on multiple project
 - 📫 How to reach me using discord = NIXTÉN#9886
